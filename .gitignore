@@ -181,3 +181,6 @@ cython_debug/
 .cursorindexingignore
 /transformers-mini/.venv312
 /transformers-mini/lightning_logs
+/.venv312
+/transformers-mini/tb_traces
+*.onnx
