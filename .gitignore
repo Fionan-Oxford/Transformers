@@ -184,3 +184,6 @@ cython_debug/
 /.venv312
 /transformers-mini/tb_traces
 *.onnx
+/english_language/bert-tiny
+/english_language/finetuned_bert_tiny_chunked
+*.csv
